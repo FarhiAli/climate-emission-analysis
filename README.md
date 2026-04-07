@@ -1,4 +1,4 @@
-# climate-emission-analysis
+# Climate-emission-analysis
 Analysis of global CO2 emissions using Python (data cleaning, visualisation, insights). 
 # Climate Emissions Analysis
 
